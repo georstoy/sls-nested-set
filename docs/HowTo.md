@@ -43,3 +43,12 @@
 
 # Reference materials
  - [Tutorial: Create an Amazon VPC for Use with a DB Instance](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateVPC.html#CHAP_Tutorials.WebServerDB.CreateVPC.SecurityGroupDB)
+ - [Tutorial: Configuring a Lambda Function to Access Amazon RDS in an Amazon VPC](https://docs.aws.amazon.com/lambda/latest/dg/services-rds-tutorial.html)
+ - [Query your AWS database from your serverless application](https://aws.amazon.com/blogs/database/query-your-aws-database-from-your-serverless-application/)
+
+ - CloudFormer - creates CloudFormation template from existing infrastructure
+ - [Declare AWS resources in serverless.yml](https://serverless.com/framework/docs/providers/aws/guide/resources/)
+
+ - *Additional*
+   - [Where to start: the most popular Framework plugins](https://serverless.com/blog/most-popular-framework-plugins/)
+   - [Dev.to article: Top serverless plugins we are using](https://dev.to/hoangleitvn/top-serverless-plugins-we-are-using-380b)
